@@ -1,4 +1,6 @@
 import sys
 import os
 
-print("hola python en github")
+nombre=input("Hola, cual es tu nombre?: ")
+
+print("hola",nombre)
